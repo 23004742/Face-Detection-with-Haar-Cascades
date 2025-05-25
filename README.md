@@ -77,5 +77,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ## OUTPUT:
-![Uploading WhatsApp Image 2025-05-25 at 14.13.54_06181997.jpg…]()
+
+
+![WhatsApp Image 2025-05-25 at 14 13 54_13330229](https://github.com/user-attachments/assets/faf7c616-160e-4a50-ab56-6631535f48e6)
 
